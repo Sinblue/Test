@@ -1,5 +1,3 @@
 $input = <> ;
 chomp $input;
-
-print "Hello world";
-print "$input\n";
+print "Hello $input !!!\n";
